@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>CSV</id>
+    <version>1.0.0</version>
+    <authors>Poornima Y.O</authors>
+    <owners>Poornima Y.O</owners>
+	<repository type="git" url="https://github.com/poornimayo/packagedemo" />
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>csv description</description>
+    <releaseNotes>Summary of changes made in this release in the csv package.</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>csv</tags>
+  </metadata>
+  <files>
+    <file src="Output\DevOps.CSVConverter.exe" target="lib" />
+</files>
+</package>
